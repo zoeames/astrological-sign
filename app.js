@@ -1,5 +1,5 @@
 var prompt = require('sync-prompt').prompt;
-var date = prompt('What is your first name (mm/dd/yyyy)? ');
+var date = prompt('What is your birthday (mm/dd/yyyy)? ');
 console.log(date);
 date = new Date(date);
 console.log('day =', date.getDate());
