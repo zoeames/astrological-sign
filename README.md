@@ -1,5 +1,4 @@
-astrological-sign
-=================
+#Astrological Sign
 
 The file app.js asks for your birthday and then does 2 things:
 
