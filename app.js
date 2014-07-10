@@ -1,3 +1,11 @@
+//app.js
+//
+//Astrological Sign Calculator
+//This code calculates how old you are and what your astrological 
+//sign is just based on your birthday
+//
+//Z. Ames 7/9/14
+
 var prompt = require('sync-prompt').prompt;
 var date = prompt('What is your birthday (mm/dd/yyyy)? ');
 console.log(date);
